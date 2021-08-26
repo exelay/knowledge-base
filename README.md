@@ -1,2 +1,13 @@
-# knowledge-base
-My Personal Knowledge Base
+# My Personal Knowledge Base
+## Python
+### Packages
+#### parse
+#### fastcore
+#### rapidfuzz
+#### ward
+#### pydantic
+#### poetry
+#### cleo
+#### telethon
+#### aiogram
+#### FastAPI
